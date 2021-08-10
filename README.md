@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HYUNSANGJIN.github.io/)](https://HYUNSANGJIN.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HYUNSANGJIN.github.io/)](https://HYUNSANGJIN.github.io/)
