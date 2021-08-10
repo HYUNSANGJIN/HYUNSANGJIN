@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=auto)
 
    ### Hi there 👋
-   dreaming of becoming a front-end developer :)
+   Dreaming of becoming a front-end developer :)
                                             
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
