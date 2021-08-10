@@ -10,7 +10,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HYUNSANGJIN=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSANGJIN&show_icons=true&theme=radical)
+
 
 
 <!--
