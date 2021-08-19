@@ -6,7 +6,10 @@
 
    ### Hi there 👋
    Dreaming of becoming a front-end developer :)
+   
+   
                                             
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYUNSANGJIN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2378C1E3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
