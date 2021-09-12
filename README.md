@@ -27,8 +27,6 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SangJin-HYUN-2c508462fb4b489b8e9ce15429691c2d)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSANGJIN&show_icons=true&theme=radical)
-
 
 
 <!--
